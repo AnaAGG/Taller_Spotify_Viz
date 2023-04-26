@@ -101,7 +101,7 @@ def clean_data(all_data):
     df = pd.DataFrame(basic_info)
     return df
 
-def get_features(conexion, df_basic_info, list_uris_songs):
+def get_features(conexion, df_basic_info, list_uris_songs, nombre_lista):
     
     features = []
     for track in list_uris_songs:
@@ -112,10 +112,10 @@ def get_features(conexion, df_basic_info, list_uris_songs):
     df_features = df[0].apply(pd.Series)
     final = pd.merge(df_basic_info, df_features,  left_on='uri_cancion', right_on="uri")
     fecha_hoy = datetime.today().strftime('%Y-%m-%d')
-    final.to_csv(f"../data/basic_info_{fecha_hoy}.csv")
+    final.to_csv(f"../data/basic_info_{fecha_hoy}_{nombre_lista}.csv")
     return final
 
-def clean_df(df):
+def clean_df(df, nombre_lista):
     """_summary_
 
     Args:
@@ -127,10 +127,10 @@ def clean_df(df):
     df = df.explode("artist")
     df = df.explode("uri_artista")
     fecha_hoy = datetime.today().strftime('%Y-%m-%d')
-    df.to_csv(f"../data/basic_info_{fecha_hoy}.csv")
+    df.to_csv(f"../data/basic_info_{fecha_hoy}_{nombre_lista}.csv")
     return df[["song", "date", "popularity", "ironhacker", "artist", "uri_artista",  "uri_cancion"]]
 
-def get_artist_album(conexion, artist_uri):
+def get_artist_album(conexion, artist_uri, nombre_lista):
     
     df_artistas = pd.DataFrame()
     
@@ -157,11 +157,11 @@ def get_artist_album(conexion, artist_uri):
     
     fecha_hoy = datetime.today().strftime('%Y-%m-%d')
 
-    df_artistas.to_csv(f"../data/albums_artistas_{fecha_hoy}.csv")
+    df_artistas.to_csv(f"../data/albums_artistas_{fecha_hoy}_{nombre_lista}.csv")
 
     return df_artistas
 
-def get_artist_data(conexion, artist_uri):
+def get_artist_data(conexion, artist_uri, nombre_lista):
     
     df_artistas_info = pd.DataFrame()
     
@@ -189,7 +189,7 @@ def get_artist_data(conexion, artist_uri):
         df_artistas_info = pd.concat([df_artistas_info, df_artistas], axis = 0)
         
     fecha_hoy = datetime.today().strftime('%Y-%m-%d')
-    df_artistas_info.to_csv(f"../data/info_artistas_{fecha_hoy}.csv")
+    df_artistas_info.to_csv(f"../data/info_artistas_{fecha_hoy}_{nombre_lista}.csv")
 
     return df_artistas_info
 
