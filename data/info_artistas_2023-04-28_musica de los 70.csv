@@ -1,0 +1,84 @@
+,artist_name,artist_id,followers,genres,popularity
+0,Kansas,2hl0xAkS2AIRAu23TVMBG1,1374524,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock']",66
+0,Rodríguez,5PrHzxc3kFm4hIrGNmelpX,484519,"['folk', 'folk rock']",58
+0,Eagles,0ECwFtbIWEVNwjlrfc6xoL,9402101,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",76
+0,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,26963265,"['r&b', 'soul']",83
+0,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,5528325,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",76
+0,Simon & Garfunkel,70cRZdQywnSFp9pnc2WTCE,4598094,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock', 'soft rock']",73
+0,Patti Smith,0vYkHhJ48Bs3jWcvZXvOrP,993124,"['art punk', 'permanent wave', 'protopunk', 'singer-songwriter']",59
+0,Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,8162138,"['rock-and-roll', 'rockabilly']",79
+0,Cheap Trick,1LB8qB5BPb3MHQrfkvifXU,1333631,"['album rock', 'beatlesque', 'classic rock', 'glam metal', 'glam rock', 'hard rock', 'heartland rock', 'mellow gold', 'power pop', 'rock', 'soft rock']",62
+0,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3,1927644,"['classic country pop', 'classic texas country', 'country', 'country rock', 'nashville sound', 'outlaw country', 'singer-songwriter']",72
+0,John Lennon,4x1nvY2FN8jxqAFA0DA02H,5408680,"['beatlesque', 'classic rock', 'rock']",70
+0,David Bowie,0oSGxfWSnnOXhD2fKuz2Gy,9355606,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",78
+0,Carole King,319yZVtYM9MBGqmSQnMyY6,1370122,"['brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",63
+0,AC/DC,711MCceyCBcFnzjGY4Q7Un,26292484,"['australian rock', 'hard rock', 'rock']",82
+0,Andy Williams,4sj6D0zlMOl25nprDJBiU9,483915,"['adult standards', 'easy listening']",57
+0,TOTO,0PFtn5NtBbbUNbU9EAmIWF,2589589,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",73
+0,Marvin Gaye,3koiLjNrgRTNbOwViDipeA,4966008,"['classic soul', 'motown', 'neo soul', 'northern soul', 'quiet storm', 'soul']",74
+0,"Earth, Wind & Fire",4QQgXkCYTt3BlENzhyNETg,3856640,"['disco', 'funk', 'jazz funk', 'soul']",73
+0,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,5092438,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",77
+0,Electric Light Orchestra,7jefIIksOi1EazgRTfW2Pk,3707740,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",71
+0,MFSB,2mknvtcck8i82nKxDPDibv,74816,"['disco', 'instrumental soul', 'jazz funk', 'philly soul', 'post-disco']",40
+0,The Three Degrees,2zpFG5cvw00QmrYTUsjApa,173422,"['classic girl group', 'disco', 'motown', 'philly soul']",50
+0,Bee Gees,1LZEQNv7sE11VDY3SdxQeN,6739217,"['disco', 'soft rock']",77
+0,Billy Ocean,5IDs1CK15HegSAhGEbSYXo,1029652,"['disco', 'mellow gold', 'motown', 'new romantic', 'new wave pop', 'soft rock', 'synthpop', 'yacht rock']",63
+0,Heatwave,6D7h7R79IZjqJC2GM2wzyY,419068,"['brit funk', 'classic soul', 'disco', 'funk', 'motown', 'post-disco', 'quiet storm', 'soul']",50
+0,Tina Charles,7Jbs4wPCLaKXPxrTxZ2zaa,95308,"['disco', 'hi-nrg']",49
+0,The Jacksons,2yrbLiuBmc9j81lTX3XUuI,1628828,"['disco', 'motown']",60
+0,Patti LaBelle,0ty0xha1dbprYIUAQufkFn,904522,"['contemporary r&b', 'motown', 'philly soul', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",54
+0,Van Morrison,44NX2ffIYHr6D4n7RaZF7A,2809106,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",73
+0,Elton John,3PhoLpVuITZKcymswpck5b,11431651,"['glam rock', 'mellow gold', 'piano rock', 'rock']",84
+0,Boney M.,54R6Y0I7jGUCveDTtI21nb,1649025,['europop'],71
+0,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,4371786,"['beatlesque', 'classic rock', 'mellow gold', 'rock']",72
+0,The Clash,3RGLhK1IP9jnYFH4BRFJBS,2507467,"['alternative rock', 'permanent wave', 'punk', 'rock']",70
+0,The Who,67ea9eGLXYMsO2eYQRui3w,4993543,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']",69
+0,The O'Jays,38h03gA85YYPeDPd9ER9rT,1128709,"['classic soul', 'disco', 'funk', 'philly soul', 'quiet storm', 'soul']",60
+0,Sweet,3JaAGmSTpJK35DqWrDUzBz,412928,"['album rock', 'glam rock', 'hard rock']",57
+0,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,12853755,"['album rock', 'british invasion', 'classic rock', 'rock']",79
+0,Queen,1dfeR4HaWDbWqFHLkxsg1d,46338223,"['classic rock', 'glam rock', 'rock']",85
+0,Lou Reed,42TFhl7WlMRXiNqzSrnzPL,1663212,"['classic rock', 'glam rock', 'permanent wave', 'rock', 'singer-songwriter']",63
+0,The Knack,0Nn9YwJzcaeuU1jJL06e3r,213922,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'new wave', 'new wave pop', 'power pop', 'soft rock']",56
+0,Boston,29kkCKKGXheHuoO829FxWK,2448107,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",67
+0,Barry Manilow,3alW3LYQS8K29z8C8NSLIX,1466587,"['adult standards', 'mellow gold', 'soft rock', 'yacht rock']",61
+0,Harold Melvin & The Blue Notes,438JBZR1AR0l04AzcYW9gy,535759,"['classic soul', 'disco', 'funk', 'philly soul', 'quiet storm', 'soul', 'southern soul']",55
+0,Teddy Pendergrass,68kACMx6A3D2BYiO056MeQ,1213473,"['funk', 'motown', 'philly soul', 'quiet storm', 'soul', 'urban contemporary']",59
+0,John Denver,7EK1bQADBoqbYXnT4Cqv9w,1836714,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",69
+0,Lee Holdridge,5fYFaGbNGtEW9Ip1oCMHyH,1717,['classic soundtrack'],29
+0,The Emotions,64CuUOOirKmdAYLQSfaOyr,537108,"['chicago soul', 'classic soul', 'disco', 'funk', 'girl group', 'motown', 'post-disco', 'quiet storm', 'soul']",63
+0,Harry Nilsson,3RTzAwFprBqiskp550eSJX,435778,"['classic rock', 'folk', 'folk rock', 'singer-songwriter']",60
+0,Eric Carmen,2ekjTXgjxbWwBX5lTAj4DU,316020,"['mellow gold', 'new wave pop', 'soft rock', 'yacht rock']",61
+0,Bill Withers,1ThoqLcyIYvZn7iWbj8fsj,1474494,"['classic soul', 'funk', 'quiet storm', 'soul']",73
+0,Blue Öyster Cult,00tVTdpEhQQw1bqdu8RCx2,1405473,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'progressive rock', 'rock']",63
+0,Albert Hammond,34E3csCxpXunPGEkOVVX2g,111285,"['classic uk pop', 'rock of gibraltar']",54
+0,Baccara,4dn4KQgTE4P3jrwa3iIVzQ,148378,['italian disco'],51
+0,CHIC,0Xf8oDAJYd2D0k3NLI19OV,654211,"['disco', 'funk', 'soul']",60
+0,Amanda Lear,0Xkd9GsWwOYETVF0kPXZIG,49660,"['hi-nrg', 'italian disco']",42
+0,Eruption,3R6f1aBWwde7ZqGv7hf4dY,58525,['italian disco'],47
+0,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,9759096,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",82
+0,Kool & The Gang,3VNITwohbvU5Wuy5PC6dsI,2247994,"['disco', 'funk', 'motown', 'soul']",68
+0,Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,6081777,"['motown', 'soul']",76
+0,Blondie,4tpUmLEVLCGFr93o8hFFIB,1253527,"['candy pop', 'new wave pop', 'permanent wave', 'power pop', 'rock']",70
+0,Sly & The Family Stone,5m8H6zSadhu1j9Yi04VLqD,949278,"['classic soul', 'funk', 'funk rock', 'p funk', 'psychedelic soul', 'soul', 'southern soul']",60
+0,Rod Stewart,2y8Jo9CKhJvtfeKOsYzRdT,4145613,"['mellow gold', 'soft rock']",73
+0,Smokie,5rIqOJspxDq89aBBCUda1X,535034,[],57
+0,Daryl Hall & John Oates,77tT1kLj6mCWtFNqiOmP9H,2089053,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",72
+0,Billy Paul,187xgSpsFH8mMbAcoCW0zE,259683,"['classic soul', 'disco', 'motown', 'philly soul', 'quiet storm', 'soul']",54
+0,Chicago,3iDD7bnsjL9J4fO298r0L0,3579656,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",69
+0,Village People,0dCKce6tJJdHvlWnDMwzPW,546059,"['disco', 'new wave pop', 'soft rock']",61
+0,Sister Sledge,6gkWznnJkdkwRPVcmnrays,582283,"['disco', 'funk', 'philly soul', 'quiet storm', 'soul']",60
+0,Bob Dylan,74ASZWbe4lXaubB36ztrGX,6091347,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']",72
+0,Tom Petty and the Heartbreakers,4tX2TplrkIP4v05BNC903e,2503354,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",68
+0,Supertramp,3JsMj0DEzyWc0VDlHuy9Bx,3053240,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold', 'piano rock', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",70
+0,Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,18836572,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",80
+0,T. Rex,3dBVyJ7JuOMt4GE9607Qin,942196,"['classic rock', 'glam rock', 'protopunk', 'rock']",62
+0,The Police,5NGO30tJxFlKixkPSgXcFE,5429215,"['album rock', 'classic rock', 'permanent wave', 'rock']",76
+0,Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,6596397,"['album rock', 'classic rock', 'mellow gold', 'rock']",76
+0,Carly Simon,4FtSnMlCVxCswABUmdhwpm,1008978,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",63
+0,Led Zeppelin,36QJpDe2go2KgaRleHCDTp,13306885,"['album rock', 'classic rock', 'hard rock', 'rock']",78
+0,The Kinks,1SQRv42e4PjEYfPhS0Tk9E,2372290,"['album rock', 'art rock', 'british invasion', 'classic rock', 'folk rock', 'glam rock', 'protopunk', 'psychedelic rock', 'rock', 'singer-songwriter']",66
+0,The Cars,6DCIj8jNaNpBz8e5oKFPtp,1599336,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']",67
+0,Christopher Cross,695W5F2Ih8dYahLdjVOIoH,900385,"['mellow gold', 'soft rock', 'yacht rock']",65
+0,Santana,6GI52t8N5F02MxU0g5U69P,2982343,"['blues rock', 'classic rock', 'mexican classic rock']",73
+0,Gloria Gaynor,6V6WCgi7waF55bJmylC4H5,906824,"['disco', 'soft rock']",64
+0,Yusuf / Cat Stevens,08F3Y3SctIlsOEmKd6dnH8,1705543,"['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter']",71

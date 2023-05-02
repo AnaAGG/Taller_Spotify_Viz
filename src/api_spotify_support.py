@@ -42,7 +42,7 @@ def prepare_url(link):
 
 
 
-def extract_songs(conexion, playlist_URI, numero_canciones):
+def extract_songs(conexion, playlist_URI):
     """_summary_
 
     Args:
@@ -52,7 +52,9 @@ def extract_songs(conexion, playlist_URI, numero_canciones):
     Returns:
         list: list with all the songs included in the selected spotify playlist
     """    
+    numero_canciones = conexion.playlist_tracks(playlist_URI, limit = 1)["total"]
     numero_canciones = int(str(numero_canciones + 100)[0])
+    print(numero_canciones)
     offset = 0
     all_data = []
     for i in range(numero_canciones):
@@ -71,7 +73,7 @@ def clean_data(all_data):
     Returns:
         dataframe: dataframe with the selected information of the playlist_tracks endpoint
     """    
-    basic_info = {"song": [], "artist": [], "date": [], "explicit": [], "uri_cancion": [], "popularity": [], "ironhacker": [], "links": [], 'uri_artista': []}
+    basic_info = {"song": [], "artist": [], "date": [], "explicit": [], "uri_cancion": [], "popularity": [], "usuario": [], "links": [], 'uri_artista': []}
     for i in range(len(all_data)): 
         for z in range(len(all_data[i])): 
             artista = []
@@ -82,7 +84,7 @@ def clean_data(all_data):
             basic_info["date"].append(all_data[i][z]["track"]["album"]["release_date"])
             basic_info["explicit"].append(all_data[i][z]["track"]["explicit"])
             basic_info["popularity"].append(all_data[i][z]["track"]["popularity"])
-            basic_info["ironhacker"].append(all_data[i][z]["added_by"]["id"])
+            basic_info["usuario"].append(all_data[i][z]["added_by"]["id"])
             basic_info["links"].append(all_data[i][z]["track"]["external_urls"]["spotify"])
 
             
@@ -128,7 +130,7 @@ def clean_df(df, nombre_lista):
     df = df.explode("uri_artista")
     fecha_hoy = datetime.today().strftime('%Y-%m-%d')
     df.to_csv(f"../data/basic_info_{fecha_hoy}_{nombre_lista}.csv")
-    return df[["song", "date", "popularity", "ironhacker", "artist", "uri_artista",  "uri_cancion"]]
+    return df[["song", "date", "popularity", "usuario", "artist", "uri_artista",  "uri_cancion"]]
 
 def get_artist_album(conexion, artist_uri, nombre_lista):
     

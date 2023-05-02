@@ -1,0 +1,143 @@
+,artist_name,artist_id,followers,genres,popularity
+0,Soul Asylum,02da1vDJ2hWqfK7aJL6SJm,564528,"['alternative rock', 'grunge', 'permanent wave', 'pop rock', 'post-grunge']",56
+0,Haddaway,0Suv0tRrNrUlRzAy8aXjma,302102,"['eurodance', 'europop']",65
+0,Madonna,6tbjWDEIzxoDsBA1FuhfPW,6909644,"['dance pop', 'pop']",78
+0,Vanilla Ice,7GXXMm3DB1VswVcuGyInUd,453768,['miami hip hop'],57
+0,Sting,0Ty63ceoRnnJKVEYP0VQpk,2934035,"['permanent wave', 'soft rock', 'sophisti-pop']",71
+0,Bryan Adams,3Z02hBLubJxuFJfhacLSDc,3096351,"['canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",75
+0,Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,6607578,"['album rock', 'classic rock', 'mellow gold', 'rock']",76
+0,Corona,26T6b8maqEVltcmE4kSDUl,190250,"['diva house', 'eurodance', 'europop', 'hip house']",61
+0,Phil Collins,4lxfqrEsLX6N1N4OCSkILp,5129342,"['rock drums', 'soft rock']",76
+0,Lisa Stansfield,2jS7I1u7BpgWT9ssG62Zr1,656346,"['british soul', 'new romantic', 'new wave pop', 'synthpop']",55
+0,Ian Devaney,6Ufm4BHf4ZdolpvcvYgH2S,600,[],49
+0,Andy Morris,0A1FSG9WZ2dQ5JSkQYJHIp,840,[],48
+0,Duran Duran,0lZoBs4Pzo7R89JM9lxwoT,2592986,"['album rock', 'classic rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",69
+0,Milli Vanilli,3vRclCt9VnNhYIxFMQCxuM,320305,"['freestyle', 'new jack swing', 'new wave pop']",51
+0,Technotronic,2Cd98zHVdZeOCisc6Gi2sB,249727,"['eurodance', 'hip house', 'new beat']",58
+0,Cyndi Lauper,2BTZIqw0ntH9MvilQ3ewNY,2298531,"['dance pop', 'new wave pop', 'permanent wave', 'soft rock']",71
+0,Laura Branigan,4463nfFMmK1cwAWBQDwT5e,628219,"['new romantic', 'new wave pop', 'soft rock', 'synthpop']",62
+0,Tears For Fears,4bthk9UfsYUYdcFyqxmSUU,2801918,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",74
+0,No Doubt,0cQbJU1aAzvbEmTuljWLlF,2495436,"['dance pop', 'dance rock', 'permanent wave', 'pop rock', 'rock']",68
+0,Culture Club,6kz53iCdBSqhQCZ21CoLcc,1416490,"['album rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",64
+0,Roxette,2SHhfs4BiDxGQ3oxqf0UHY,1967791,"['europop', 'swedish pop']",71
+0,Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,9162891,['dance pop'],77
+0,Robbie Williams,2HcwFjNelS49kFbfvMxQYw,2660920,"['dance rock', 'europop']",71
+0,INXS,1eClJfHLoDI4rZe5HxzBFv,2353683,"['australian rock', 'dance rock', 'funk rock', 'new romantic', 'new wave', 'rock']",70
+0,Kid Travis,6UWui6Csqc1ywqnDzjOWnk,116517,[],58
+0,Ace of Base,5ksRONqssB7BR161NTtJAm,670529,"['eurodance', 'europop', 'new wave pop']",65
+0,Electric Light Orchestra,7jefIIksOi1EazgRTfW2Pk,3713066,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",71
+0,Overdriver Duo,37knAlDxPb6FSnBQJNzM18,72958,[],44
+0,Evdokim,2n9wmGLzprO6EqejRjx5Er,1404,[],18
+0,Skyler Lutes,67rpDe4CSiauV89n84WgQI,998,['west coast reggae'],19
+0,Sensi Trails,3rzryV7aMecOofYb0Py3Hl,13681,"['east coast reggae', 'reggae rock', 'west coast reggae']",44
+0,Swamp Music Players,34RItCVQzmibKPXhfzcelz,495,[],11
+0,Laura Jacobs,6Y1qOG7FsRCzZV1oEylHpl,27,[],7
+0,MOONWOOD,0biCiykg6sW8FuLPNl0YY8,367,[],11
+0,ben chow,3O9Vari0d5odpXVPlRT04w,1280,[],12
+0,Mario Strack,2OUUTmBu6Btw3yjo6xbwb1,61,[],15
+0,Randy Camera,2QzOafYxJmvipbMeBiWlUn,0,[],10
+0,Jakob The Liar,0Ha1Oui9T8ClS6o4eopRnb,130,[],5
+0,Wild Fire,3R2bn1e34SskxOaoM4XmD2,6415,[],20
+0,Mike Kennedy,2Dg1BUjSvYCUBfK5XaE8nW,21960,[],33
+0,Hello Fiasco,3JsVASgdxUNn1BIZbC4pnp,250,[],34
+0,The Division Red,2aBqKwWs29be7xDV2vm9uU,1705,[],23
+0,Jon Secada,10n1KB2sjTrGdyuC83y8jW,349240,['soft rock'],61
+0,Noisegun,1QsIeppSdhz1yyDX9UAb2x,473,[],13
+0,Tim Azzy,1buJqBlDkRU80kYilxXsiA,3,[],6
+0,ZeeCeeKeely,3uaQjOlI91dln0ycihhq4R,558,['west coast reggae'],9
+0,Tina Turner,1zuJe6b1roixEKMOtyrEak,3356482,"['new wave pop', 'soft rock']",69
+0,The Cars,6DCIj8jNaNpBz8e5oKFPtp,1601729,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']",67
+0,Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,6088092,"['motown', 'soul']",76
+0,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,28569012,"['glam metal', 'hard rock', 'rock']",80
+0,Cutting Crew,3cniTumSiUysiPWXapGx1i,368666,"['album rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",61
+0,The Outfield,1zxDewzd2j1ZdSBGaYcr0y,547444,"['album rock', 'power pop']",65
+0,The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,3360737,"['irish rock', 'pop rock', 'rock']",74
+0,Depeche Mode,762310PdDnwsDxAQxzQkfX,5377934,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'rock']",77
+0,Daniel Miller,4zvLVP1siaenGVnUBDo2nt,5111,[],52
+0,Phil Legg,7CXlqxbfckEDH2hQMjrGyZ,358,[],52
+0,Michael Bolton,6YHEMoNPbcheiWS2haGzkn,1848564,['soft rock'],64
+0,The Safety Word,0ACJc7XJoVM9j1HeuAtLRX,2978,[],20
+0,Spectoral,3cKATxrDgMBzDFOhO8JNjH,1494,[],13
+0,Outshift,1POyoNQ9DddcVuiI0nd7YK,39,[],11
+0,Heavy D & The Boyz,4KHdmkq99PXA6QEJ2lKpA3,425811,"['contemporary r&b', 'east coast hip hop', 'new jack swing', 'old school hip hop']",49
+0,Aaron Hall,772SIFJQiXTCfxncTK1UMn,494054,"['contemporary r&b', 'new jack swing', 'r&b']",47
+0,R.E.M.,4KWTAlx2RvbpseOGMEmROg,3981614,"['alternative rock', 'athens indie', 'permanent wave', 'rock']",74
+0,Radiohead,4Z8W4fKeB5YxbusRsdQVPb,8127505,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",80
+0,Sisaundra,7I3OlQtC8f1Ag3zfroG39q,99,[],9
+0,4 Non Blondes,0Je74SitssvJg1w4Ra2EK7,432686,"['new wave pop', 'pop rock']",64
+0,Youssou N'Dour,77zlytAFjPFjUKda8TNIDY,195578,"['afropop', 'mbalax', 'world']",52
+0,Neneh Cherry,3JxCEqL9zjKnDJgUhRuRJD,149775,"['new wave pop', 'urban contemporary']",52
+0,Kim Carnes,5PN2aHIvLEM98XIorsPMhE,290880,"['new romantic', 'new wave pop', 'soft rock', 'synthpop']",61
+0,Midnight Oil,72KyoXzp0NOQij6OcmZUxk,726344,['australian rock'],60
+0,Sandra,646StQO8yxIiI3niu1OHnG,306385,"['eurodance', 'europop', 'italian disco']",56
+0,Mr. President,7KBkgunlONG7LPxs93pgpp,120021,"['eurodance', 'europop', 'german techno']",57
+0,Max-A-Million,5QpTf4jao06WPoX4HKl5x6,1653,[],37
+0,Paradisio,0FfjCldzckJBQNsnQyMJmb,37731,"['eurodance', 'italo dance']",50
+0,Aqua,6kBjAFKyd0he7LiA5GQ3Gz,502155,"['bubblegum dance', 'dance pop', 'eurodance', 'europop']",63
+0,La Bouche,488v7rQzthLNK22r0UvMie,244071,"['diva house', 'eurodance', 'europop', 'german techno']",64
+0,Rednex,22Zqu1yyebVnbve8FxbJ2g,112742,"['eurodance', 'europop', 'swedish country']",57
+0,2 Unlimited,18JD8DVlD1fakDAw7E9LFC,234921,"['eurodance', 'europop', 'hip house']",56
+0,Chumbawamba,0TcYeHEK9sBtv7xPbKhzHz,94905,['anarcho-punk'],55
+0,Playahitty,6zZWFyAqVLEWelkVuQRUCz,8947,"['eurodance', 'hip house']",48
+0,Various Artists,0LyfQWJT6nXafLPZqxe9Of,1927522,[],0
+0,Real McCoy,2vRfKzjQYJQd67X8x49MOh,131839,"['diva house', 'eurodance', 'german techno', 'hip house']",53
+0,Cher,72OaDtakiy6yFqkt4TsiFt,2936143,"['dance pop', 'pop']",69
+0,Eiffel 65,64rxQRJsLgZwHHyWKB8fiF,325424,"['eurodance', 'europop', 'italian adult pop', 'italo dance']",63
+0,Pet Shop Boys,2ycnb8Er79LoH2AsR5ldjh,1554317,"['art pop', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",67
+0,Dr. Alban,6BkcAbUkfIBM4XudxieMq8,207759,"['eurodance', 'europop', 'hip house']",62
+0,La Bionda,64KxTrl5ovS7lD7pSNov9i,12768,['italian disco'],35
+0,Scatman John,4omQQTNN7ILiMsSB2k9eqX,125570,['eurodance'],54
+0,Ice Mc,5wlyJXaam6QmyDn8qBLZx8,97283,['eurodance'],52
+0,MC Hammer,2rblp9fJo16ZPTcKDtlmKW,573914,['hip hop'],57
+0,Vengaboys,0cwmNvclzPd8mQnoHuIksj,401276,"['bubblegum dance', 'eurodance', 'europop']",63
+0,No Mercy,2tUGlReCZRMoRgl0IS79i3,55420,"['boy band', 'eurodance', 'hip house']",51
+0,Oasis,2DaxqgrOhkeH0fpeiQq2f4,8586986,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",77
+0,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,19567069,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",83
+0,Diddy,59wfkuBoNyhDMQGCljbUbA,1462286,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap']",74
+0,Faith Evans,5NDMothbpdpq2xHqSjrrWn,1486282,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",65
+0,112,7urq0VfqxEYEEiZUkebXT4,1066524,"['atl hip hop', 'boy band', 'contemporary r&b', 'r&b', 'urban contemporary']",65
+0,Coolio,3y24n3XhZ96wgwRXjvS17T,881944,"['g funk', 'gangster rap', 'hip hop', 'west coast rap']",70
+0,L.V.,2LhsePRtgCo4THVKULQBL7,17802,[],69
+0,Natalie Imbruglia,0dlOr0VIysztGWvU1dpjmP,875628,"['dance pop', 'europop', 'lilith', 'new wave pop', 'pop rock']",62
+0,The Verve,2cGwlqi3k18jFpUyTrsR84,2109035,"['britpop', 'permanent wave', 'rock', 'shoegaze']",67
+0,Ini Kamoze,1VJspRsoC6c0bvqhnSiFCs,131219,"['reggae', 'reggae fusion', 'roots reggae']",58
+0,Salaam Remi,0rlS0SzVFk8BoiAW0fGBbN,27263,['hip hop'],63
+0,Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,5132416,"['boy band', 'dance pop', 'pop']",75
+0,Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,9370082,"['electro', 'filter house', 'rock']",82
+0,Lou Bega,46lnlnlU0dXTDpoAUmH6Qx,100673,['latin pop'],60
+0,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,7536483,"['dance pop', 'pop']",78
+0,Spice Girls,0uq5PttqEjj3IH1bzwcrXF,3049777,"['dance pop', 'girl group', 'pop']",69
+0,Nirvana,6olE6TJLqED3rqDCT0FyPh,17456871,"['grunge', 'permanent wave', 'rock']",82
+0,Savage Garden,3NRFinRTEqUCfaTTZmk8ek,1144693,"['boy band', 'dance pop', 'pop rock']",65
+0,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,10381389,"['alternative hip hop', 'modern rock', 'rock']",82
+0,Shaggy,5EvFsr3kj42KNv97ZEnqij,1934263,"['dance pop', 'pop rap', 'reggae fusion']",74
+0,Hanson,0SdiiPkr02EUdekHZJkt58,448312,['boy band'],58
+0,SNAP!,2FrKQPjJe4pVMZOgm0ESOx,188933,"['diva house', 'eurodance', 'german techno', 'hip house']",61
+0,House Of Pain,0AuW7OCyKfFrsMbtHrYgIV,573458,"['gangster rap', 'hip hop', 'rap rock', 'west coast rap']",60
+0,Sugar Ray,4uN3DsfENc7dp0OLO0FEIb,892303,"['alternative metal', 'funk metal', 'pop rock', 'post-grunge']",60
+0,The Smashing Pumpkins,40Yq4vzPs9VNUrIBG5Jr2i,4472281,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']",73
+0,Gillette,20ldWECcOHmOWwKwAwvn4y,12646,[],43
+0,TLC,0TImkz4nPqjegtVSMZnMRq,3542783,"['atl hip hop', 'contemporary r&b', 'dance pop', 'girl group', 'hip pop', 'r&b', 'urban contemporary']",69
+0,Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,7306999,"['latin pop', 'mexican pop', 'puerto rican pop']",74
+0,Snow,3uZFBSsMiooimnprFL9jD1,56938,"['canadian old school hip hop', 'reggae fusion']",63
+0,The Beloved,46h3caIKtqPlEfRHuSdibg,53655,"['hip house', 'synthpop']",49
+0,Robin S,2WvLeseDGPX1slhmxI59G3,79423,['diva house'],58
+0,Crystal Waters,2sd9Q3r0Jhqpe3w9WVuG43,115652,['diva house'],63
+0,Republica,06YQ6XwCdPUn8rAXV70gge,51842,"['britpop', 'candy pop', 'new wave pop']",43
+0,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,27017161,"['r&b', 'soul']",83
+0,Crazy Town,4iSKnRZAxkmqNok6tv10Se,466740,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap rock']",59
+0,Blind Melon,5sD1ZLf2dGQ9gQ3YJl1eAd,1104167,"['alternative metal', 'alternative rock', 'grunge', 'pop rock', 'rock']",61
+0,Aerosmith,7Ey4PD4MYsKc5I2dolUwbH,13403410,"['album rock', 'classic rock', 'hard rock', 'rock']",77
+0,Shania Twain,5e4Dhzv426EvQe3aDb64jL,2888064,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']",74
+0,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,5101680,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",77
+0,Chris Cox,1PLakF1tFiv9zn73N2UjaN,2507,"['tribal house', 'vocal house']",45
+0,Barry Harris,0v4es8yvR06oDJWG57Fxi8,1530,"['tribal house', 'vocal house']",41
+0,Counting Crows,0vEsuISMWAKNctLlUAhSZC,1639864,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",69
+0,The Proclaimers,1A92IAcd7A6npCA33oGM5i,291410,"['celtic rock', 'scottish rock']",62
+0,Jon Bon Jovi,6h2bWHWTJL38N8dqocVaif,2214618,['hard rock'],55
+0,Alannah Myles,6IYnSXO40Bh7Zdqhf6rQoj,93280,['classic canadian rock'],55
+0,New Kids On The Block,55qiaow2sDYtjqu1mwRua6,704057,['boy band'],56
+0,Tracy Chapman,7oPgCQqMMXEXrNau5vxYZP,1450217,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",70
+0,Black Machine,2HW8QrmykJDpycE1lo5Uj4,5694,[],35
+0,Rod Stewart,2y8Jo9CKhJvtfeKOsYzRdT,4153342,"['mellow gold', 'soft rock']",73
+0,Meat Loaf,7dnB1wSxbYa8CejeVg98hz,1022701,['album rock'],64
